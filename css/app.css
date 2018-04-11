@@ -44,7 +44,7 @@ text-align: center;
 }
 
 h2 {
-    margin: 0;
+    margin:5;
     transform: rotate(-45deg);
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
@@ -54,6 +54,6 @@ h2 {
 background-color: #03a9f4;
 }
 
-#sudan {
+#Sudan {
 background-color: #d32f2f;
 }
